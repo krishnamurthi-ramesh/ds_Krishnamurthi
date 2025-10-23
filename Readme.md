@@ -7,13 +7,11 @@ This project explores the relationship between historical trader behavior data f
 The project follows the specified directory structure:
 
 ds_Krishnamurthi/
-├── notebook_1.ipynb  # All work is to be done in Google Colab
 
+├── notebook_1.ipynb  # All work is to be done in Google Colab
 ├── outputs/          # Store all visual outputs, graphs, or charts here.
 │   └── *.png / *.jpg # Image results of EDA, charts, etc.
-
 ├── ds_report.pdf     # Final summarized insights and explanations.
-
 └── README.md         # This file
 
 ## Data Sources
